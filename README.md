@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Sekou Boundy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SekouBoundy&show_icons=true&count_private=true&theme=radical&v=1)
+![Sekou Boundy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SekouBoundy&show_icons=true&count_private=true&theme=radical&v=3)
 
 
 <!--
