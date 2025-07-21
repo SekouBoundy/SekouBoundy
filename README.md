@@ -14,7 +14,6 @@
 - 🗺️ [MaliMapu](https://github.com/SekouBoundy/MaliMapu) – a smart map app for discovering local places in Mali
 
 ---
-
 ### 🧠 What I’m currently learning:
 - 🔐 Networking & Cybersecurity
 - 💹 Algorithmic Trading & Market Analysis
