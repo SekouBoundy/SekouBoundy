@@ -26,14 +26,7 @@
 - ✨ Educational platforms for West Africa
 - 🧠 AI-based apps to enhance student learning
 - 📲 Mobile apps using Flutter or React Native
-
----
-
-### 💬 Ask me about:
-- Building MVPs from scratch
-- Managing Firebase / Supabase backends
-- Being a student-entrepreneur in Africa
-
+- 
 ---
 
 ### 📫 How to reach me:
