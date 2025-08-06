@@ -8,7 +8,6 @@
 - 📱 Building apps to solve real-world problems in Africa, especially Mali
 
 ---
-
 ### 💼 What I'm working on:
 - 📚 [MaRevision](https://github.com/SekouBoundy/MaRevisio) – an educational app for Malian students (DEF, BAC & more)
 - 🗺️ [MaliMapu](https://github.com/SekouBoundy/MaliMapu) – a smart map app for discovering local places in Mali
