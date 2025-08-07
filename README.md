@@ -26,7 +26,6 @@
 - 📲 Mobile apps using Flutter or React Native
 - 
 ---
-
 ### 📫 How to reach me:
 - WhatsApp: +90 533 8883873
 - 📧 Email: sekouboundy@gmail.com
