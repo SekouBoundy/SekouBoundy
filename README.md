@@ -31,7 +31,6 @@
 - 📧 Email: sekouboundy@gmail.com
 - 🌍 LinkedIn: [linkedin.com/in/sekouboundy](https://linkedin.com/in/sekouboundy)
 - 🐦 Twitter: [@SekouBoundy](https://twitter.com/SekouBoundy)
-
 ---
 
 ### ⚡ Fun fact:
