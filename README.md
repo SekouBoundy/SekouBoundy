@@ -33,7 +33,6 @@ I use AI tools to build faster, learn smarter, and create impact. I believe tech
 ---
 ### 📊 GitHub Stats
 
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SekouBoundy&theme=dark)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=SekouBoundy&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
