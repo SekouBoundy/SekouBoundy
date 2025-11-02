@@ -8,19 +8,6 @@
 - 📱 Building apps to solve real-world problems in Africa, especially Mali
 
 ---
-### 🧠 What I’m currently learning:
-- 🔐 Networking & Cybersecurity
-- 💹 Algorithmic Trading & Market Analysis
-- 🎨 UI/UX Design with Figma
-- ☁️ Cloud services (Supabase, Firebase)
----
-
-### 🤝 I’m looking to collaborate on:
-- ✨ Educational platforms for West Africa
-- 🧠 AI-based apps to enhance student learning
-- 📲 Mobile apps using Flutter or React Native
-
----
 ### 📫 How to reach me:
 - WhatsApp: +90 533 8883873
 - 📧 Email: sekouboundy55@gmail.com
