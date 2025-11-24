@@ -11,8 +11,7 @@
 ### 📫 How to reach me:
 - WhatsApp: +90 533 8883873
 - 📧 Email: sekouboundy55@gmail.com
-- 🌍 LinkedIn: [linkedin.com/in/sekouboundy](https://linkedin.com/in/sekouboundy)
-- 🐦 Twitter: [@SekouBoundy](https://twitter.com/SekouBoundy)
+- 🌍 LinkedIn: [linkedin.com/in/sekouboundy](https://linkedin.com/in/sekou-boundy-a08096266)
 ---
 
 ### ⚡ Fun fact:
