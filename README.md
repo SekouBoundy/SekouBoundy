@@ -15,7 +15,7 @@
 ---
 
 ### ⚡ Fun fact:
-I use AI tools to build faster, learn smarter, and create impact. I believe technology can revolutionize education in Africa 🌍
+I use AI tools to build faster, learn smarter, and create impact. I am convinced that technology can revolutionize the world 🌍
 ---
 
 ---
